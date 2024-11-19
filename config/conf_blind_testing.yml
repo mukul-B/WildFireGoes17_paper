@@ -1,0 +1,18 @@
+rectangular_size: 0.6
+
+
+#blind testinf sites
+Bear:
+ longitude: -121.00
+ latitude: 39.72
+ start: 2020-09-08
+ end: 2020-09-10
+ EPSG: 32610
+
+Caldor:
+ longitude: -120.53
+ latitude: 38.584
+ start: 2021-08-17
+ end: 2021-08-18
+ EPSG: 32611
+

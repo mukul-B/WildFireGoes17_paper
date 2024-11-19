@@ -1,0 +1,7 @@
+wandb
+__pycache__
+DataRepository
+GOES_netcdfs
+logs
+Model
+VIIRS_Source

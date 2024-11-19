@@ -1,0 +1,26 @@
+conda install numpy
+conda install -c conda-forge pandas
+conda install -c conda-forge s3fs
+conda install -c conda-forge satpy
+conda install -c conda-forge gdal
+conda install -c conda-forge matplotlib
+conda install -c conda-forge rioxarray=0.11.1
+
+conda install scikit-learn
+conda install pytorch torchvision torchaudio cudatoolkit=11.6 -c pytorch -c conda-forge
+// check cuda version using : nvidia-smi
+conda install -c conda-forge wandb
+conda install -c conda-forge pyresample
+conda install -c conda-forge boto3
+conda install -c conda-forge netCDF4
+conda install -c conda-forge geopandas
+conda install -c conda-forge cartopy
+conda install pyyaml
+conda install conda-forge::timezonefinder
+
+
+# non essentials
+conda install -c conda-forge opencv
+conda install conda-forge::torchinfo
+conda install conda-forge::watchdog
+conda install conda-forge::skyfield

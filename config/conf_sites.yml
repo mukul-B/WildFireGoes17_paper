@@ -1,0 +1,539 @@
+rectangular_size: 0.6
+
+
+#2019 forest sites
+Kincade:
+ longitude: -122.780053
+ latitude: 38.792458
+ start: 2019-10-23
+ end: 2019-11-06
+ EPSG: 32610
+
+Walker:
+ longitude: -120.669
+ latitude: 40.053
+ start: 2019-09-04
+ end: 2019-09-25
+ EPSG: 32611
+
+Tucker:
+ longitude: -121.243
+ latitude: 41.726
+ start: 2019-07-28
+ end: 2019-08-15
+ EPSG: 32610
+
+Taboose:
+ longitude: -118.345
+ latitude: 37.034
+ start: 2019-09-04
+ end: 2019-11-21
+ EPSG: 32611
+
+Maria:
+ longitude: -118.997115
+ latitude: 34.302212
+ start: 2019-10-31
+ end: 2019-11-05
+ EPSG: 32611
+
+Red Bank:
+ longitude: -122.64
+ latitude: 40.12
+ start: 2019-09-05
+ end: 2019-09-13
+ EPSG: 32610
+
+Saddle Ridge:
+ longitude: -118.48161
+ latitude: 34.32988
+ start: 2019-10-10
+ end: 2019-10-31
+ EPSG: 32611
+
+Lone:
+ longitude: -121.576804
+ latitude: 39.434183
+ start: 2019-09-05
+ end: 2019-09-13
+ EPSG: 32610
+
+chuckegg_creek_fire:
+  longitude: -117.42
+  latitude: 58.38
+  start: 2019-05-15
+  end: 2019-05-22
+  EPSG: 32611
+
+eagle_bluff_fire:
+  longitude: -119.50
+  latitude: 49.42
+  start: 2019-08-05
+  end: 2019-08-10
+  EPSG: 32611
+
+richter_creek_fire:
+  longitude: -119.66
+  latitude: 49.04
+  start: 2019-05-13
+  end: 2019-05-20
+  EPSG: 32611
+
+richter_mountain_fire:
+  longitude: -119.70
+  latitude: 49.06
+  start: 2019-07-26
+  end: 2019-07-30
+  EPSG: 32611
+
+#2020 forest sites
+
+
+
+LNU_lighting_complex:
+  longitude: -122.237303
+  latitude: 38.593546
+  start: 2020-08-18
+  end: 2020-09-30
+  EPSG: 32611
+
+SCU_lighting_complex:
+  longitude: -121.4389
+  latitude: 37.3526
+  start: 2020-08-14
+  end: 2020-10-01
+  EPSG: 32611
+
+CZU_lighting_complex:
+  longitude: -122.2801549
+  latitude: 37.09736605
+  start: 2020-08-16
+  end: 2020-09-22
+  EPSG: 32611
+
+August_complex:
+  longitude: -122.97
+  latitude: 39.8686
+  start: 2020-08-17
+  end: 2020-09-23
+  EPSG: 32611
+
+North_complex_fire:
+  longitude: -120.12
+  latitude: 39.69
+  start: 2020-08-14
+  end: 2020-12-03
+  EPSG: 32611
+
+Glass_fire:
+  longitude: -122.496
+  latitude: 38.565
+  start: 2020-09-27
+  end: 2020-10-30
+  EPSG: 32611
+
+Beachie_wildfire:
+  longitude: -122.138214
+  latitude: 44.745123
+  start: 2020-09-02
+  end: 2020-09-14
+  EPSG: 32611
+
+Beachie_wildfire_2:
+  longitude: -122.23984
+  latitude: 45.102946
+  start: 2020-09-02
+  end: 2020-09-14
+  EPSG: 32611
+
+Holiday_farm_wildfire:
+  longitude: -122.49
+  latitude: 44.15
+  start: 2020-09-07
+  end: 2020-09-14
+  EPSG: 32611
+
+Cold_spring_fire:
+  longitude: -119.5725
+  latitude: 48.8507
+  start: 2020-09-06
+  end: 2020-09-14
+  EPSG: 32611
+
+creek_fire:
+  longitude: -119.3
+  latitude: 37.2
+  start: 2020-09-05
+  end: 2020-09-10
+  EPSG: 32611
+
+blue_ridge_fire:
+  longitude: -117.68
+  latitude: 33.88
+  start: 2020-10-26
+  end: 2020-10-30
+  EPSG: 32611
+
+silverado_fire:
+  longitude: -117.66
+  latitude: 33.74
+  start: 2020-10-26
+  end: 2020-10-27
+  EPSG: 32611
+
+
+bond_fire:
+  longitude: -117.67
+  latitude: 33.74
+  start: 2020-12-02
+  end: 2020-12-07
+  EPSG: 32611
+
+
+washinton_fire:
+  longitude: -119.556
+  latitude: 48.825
+  start: 2020-08-18
+  end: 2020-08-30
+  EPSG: 32611
+
+oregon_fire:
+  longitude: -121.645
+  latitude: 44.738
+  start: 2020-08-17
+  end: 2020-08-30
+  EPSG: 32611
+
+talbott_creek:
+  longitude: -117.01
+  latitude: 49.85
+  start: 2020-08-17
+  end: 2020-08-30
+  EPSG: 32611
+
+christie_mountain:
+  longitude: -119.54
+  latitude: 49.364
+  start: 2020-08-18
+  end: 2020-09-30
+  EPSG: 32611
+
+bush_fire:
+  longitude: -111.564
+  latitude: 33.629
+  start: 2020-06-13
+  end: 2020-07-06
+  EPSG: 32612
+
+magnum_fire:
+  longitude: -112.34
+  latitude: 36.61
+  start: 2020-06-08
+  end: 2020-07-06
+  EPSG: 32612
+
+bighorn_fire:
+  longitude: -111.03
+  latitude: 32.53
+  start: 2020-06-06
+  end: 2020-07-23
+  EPSG: 32612
+
+santiam_fire:
+  longitude: -122.19
+  latitude: 44.82
+  start: 2020-08-31
+  end: 2020-09-30
+  EPSG: 32612
+
+holiday_farm_fire:
+  longitude: -122.45
+  latitude: 44.15
+  start: 2020-09-07
+  end: 2020-09-30
+  EPSG: 32612
+
+slater_fire:
+  longitude: -123.38
+  latitude: 41.77
+  start: 2020-09-07
+  end: 2020-09-30
+  EPSG: 32610
+
+
+alberta_fire_1:
+  longitude: -118.069
+  latitude: 55.137
+  start: 2020-06-18
+  end: 2020-06-30
+  EPSG: 32611
+
+Doctor_creek_fire:
+  longitude: -116.09788
+  latitude: 50.0911
+  start: 2020-08-18
+  end: 2020-08-24
+  EPSG: 32611
+
+magee_fire:
+  longitude: -123.22
+  latitude: 49.88
+  start: 2020-04-15
+  end: 2020-04-16
+  EPSG: 32610
+
+
+#2021 forest sites
+
+
+Pinnacle Fire:
+ longitude: -110.201
+ latitude: 32.865
+ start: 2021-06-10
+ end: 2021-07-16
+ EPSG: 32612
+
+Backbone Fire:
+ longitude: -111.677
+ latitude: 34.344
+ start: 2021-06-16
+ end: 2021-07-19
+ EPSG: 32612
+
+Rafael Fire:
+ longitude: -112.162
+ latitude: 34.942
+ start: 2021-06-18
+ end: 2021-07-15
+ EPSG: 32612
+
+Telegraph fire :
+ longitude: -111.092
+ latitude: 33.209
+ start: 2021-06-04
+ end: 2021-07-03
+ EPSG: 32612
+
+Dixie:
+ longitude: -121
+ latitude: 40
+ start: 2021-06-15
+ end: 2021-08-15
+ EPSG: 32611
+
+Monument:
+ longitude: -123.33
+ latitude: 40.752
+ start: 2021-07-30
+ end: 2021-10-25
+ EPSG: 32610
+
+#Caldor:
+# longitude: -120.53
+# latitude: 38.584
+# start: 2021-08-15
+# end: 2021-10-21
+# EPSG: 32611
+
+Caldor:
+ longitude: -120.53
+ latitude: 38.584
+ start: 2021-08-17
+ end: 2021-08-18
+ EPSG: 32611
+
+River Complex:
+ longitude: -123.018
+ latitude: 41.143
+ start: 2021-07-30
+ end: 2021-10-25
+ EPSG: 32610
+
+Antelope:
+ longitude: -121.919
+ latitude: 41.521
+ start: 2021-08-01
+ end: 2021-10-15
+ EPSG: 32610
+
+McFarland:
+ longitude: -123.034
+ latitude: 40.35
+ start: 2021-07-29
+ end: 2021-09-16
+ EPSG: 32610
+
+Beckwourth Complex:
+ longitude: -118.811
+ latitude: 36.567
+ start: 2021-07-03
+ end: 2021-09-22
+ EPSG: 32611
+
+Windy:
+ longitude: -118.631
+ latitude: 36.047
+ start: 2021-09-09
+ end: 2021-11-15
+ EPSG: 32611
+
+McCash:
+ longitude: -123.404
+ latitude: 41.564
+ start: 2021-07-31
+ end: 2021-10-27
+ EPSG: 32610
+
+KNP Complex:
+ longitude: -118.811
+ latitude: 36.567
+ start: 2021-09-10
+ end: 2021-12-16
+ EPSG: 32611
+
+Tamarack:
+ longitude: -119.857
+ latitude: 38.628
+ start: 2021-07-04
+ end: 2021-10-08
+ EPSG: 32611
+
+French:
+ longitude: -118.55
+ latitude: 35.687
+ start: 2021-08-18
+ end: 2021-10-19
+ EPSG: 32611
+
+Lava:
+ longitude: -122.329
+ latitude: 41.459
+ start: 2021-06-25
+ end: 2021-09-03
+ EPSG: 32610
+
+Alisal:
+ longitude: -120.131
+ latitude: 34.517
+ start: 2021-10-11
+ end: 2021-11-16
+ EPSG: 32610
+
+Salt:
+ longitude: -122.336
+ latitude: 40.849
+ start: 2021-06-30
+ end: 2021-07-19
+ EPSG: 32610
+
+Tennant:
+ longitude: -122.039
+ latitude: 41.665
+ start: 2021-06-28
+ end: 2021-07-12
+ EPSG: 32610
+
+Bootleg:
+ longitude: -121.421
+ latitude: 42.616
+ start: 2021-07-06
+ end: 2021-08-14
+ EPSG: 32610
+
+Cougar Peak:
+ longitude: -120.613
+ latitude: 42.277
+ start: 2021-09-07
+ end: 2021-10-21
+ EPSG: 32610
+
+Devil's Knob Complex:
+ longitude: -123.268
+ latitude: 41.915
+ start: 2021-08-03
+ end: 2021-10-19
+ EPSG: 32610
+
+Rough Patch Complex:
+ longitude: -122.676
+ latitude: 43.511
+ start: 2021-07-29
+ end: 2021-11-29
+ EPSG: 32610
+
+Middle Fork Complex:
+ longitude: -122.409
+ latitude: 43.869
+ start: 2021-07-29
+ end: 2021-12-13
+ EPSG: 32610
+
+Bull Complex:
+ longitude: -122.009
+ latitude: 44.879
+ start: 2021-08-02
+ end: 2021-11-19
+ EPSG: 32610
+
+Jack:
+ longitude: -122.686
+ latitude: 43.322
+ start: 2021-07-05
+ end: 2021-11-29
+ EPSG: 32610
+
+Elbow Creek:
+ longitude: -117.619
+ latitude: 45.867
+ start: 2021-07-15
+ end: 2021-09-24
+ EPSG: 32611
+
+Black Butte:
+ longitude: -118.326
+ latitude: 44.093
+ start: 2021-08-03
+ end: 2021-09-27
+ EPSG: 32611
+
+Fox Complex:
+ longitude: -120.599
+ latitude: 42.21
+ start: 2021-08-13
+ end: 2021-09-01
+ EPSG: 32611
+
+Joseph Canyon:
+ longitude: -117.081
+ latitude: 45.989
+ start: 2021-06-04
+ end: 2021-07-15
+ EPSG: 32611
+
+Wrentham Market:
+ longitude: -121.006
+ latitude: 45.49
+ start: 2021-06-29
+ end: 2021-07-03
+ EPSG: 32610
+
+S-503:
+ longitude: -121.476
+ latitude: 45.087
+ start: 2021-06-18
+ end: 2021-08-18
+ EPSG: 32610
+
+Grandview:
+ longitude: -121.4
+ latitude: 44.466
+ start: 2021-07-11
+ end: 2021-07-25
+ EPSG: 32610
+
+Lick Creek Fire:
+ longitude: -117.416
+ latitude: 46.262
+ start: 2021-07-07
+ end: 2021-08-14
+ EPSG: 32611
