@@ -14,6 +14,7 @@ import multiprocessing as mp
 from tqdm import tqdm
 
 from CreateTrainingDataset import createDataset
+from ValidateAndVisualizeDataset import validateAndVisualizeDataset
 from WriteDataset4DLModel import writeDataset
 from GlobalValues import  GOES_product, toExecuteSiteList, write_training_dir,testing_dir
 
@@ -52,8 +53,9 @@ def on_error(e):
 # Writen in nupmy data to be read by Deep learning Model
 def CreateDatasetPipeline(location, product, train_test):
     prepareDir(location, product)
-    createDataset(location, product)
-    writeDataset(location, product, train_test)
+    # createDataset(location, product)
+    validateAndVisualizeDataset(location, product)
+    # writeDataset(location, product, train_test)
     return location
 
 # check the count of training data written by pipeline
@@ -72,7 +74,7 @@ if __name__ == '__main__':
     start_time = time.time()
     # train_test = testing_dir
     # pipeline run for sites mentioned in toExecuteSiteList
-    parallel = 1
+    parallel = 0
     if(parallel):
         pool = mp.Pool(8)
     # Initialize tqdm progress bar
