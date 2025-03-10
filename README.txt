@@ -1,3 +1,6 @@
+Paper: Deep Learning Approach to Improve Spatial Resolution of GOES-17 Wildfire Boundaries Using VIIRS Satellite Data
+https://www.mdpi.com/2072-4292/16/4/715
+
 This subfolder contains:
 
 1: [CreateDatasetPipeline.py] User need to run this python file to create intermediate GOES and VIIRS tiff files and training dataset, this file contains following files to achieve it.
